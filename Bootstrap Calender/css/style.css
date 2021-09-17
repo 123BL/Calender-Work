@@ -1,0 +1,16 @@
+div {
+  border: 2px solid black;
+  color: #FF00FF
+}
+h1 {
+  color: #F0FF33
+}
+col {
+  color: #118E7B
+}
+div {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
